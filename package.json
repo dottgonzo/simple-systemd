@@ -1,0 +1,29 @@
+{
+  "name": "simple-systemd",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dottgonzo/simple-systemd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottgonzo/simple-systemd/issues"
+  },
+  "dependencies": {
+    "output-file-sync": "^1.1.1",
+    "path-exists": "^2.1.0",
+    "promise": "^7.0.4",
+    "promised-exec": "^1.0.1",
+    "verbo": "0.0.9"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
